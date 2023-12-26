@@ -1,2 +1,2 @@
 question 1: what is js?
-  ans : js is programming language
+ans : js is programming language
